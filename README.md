@@ -10,6 +10,7 @@ Ionicons: Ícones modernos utilizados na navegação e nas seções do portfóli
 ## 🖥️ Funcionalidades
 Responsividade: 
 O design é completamente responsivo, funcionando bem em diferentes resoluções de tela, como desktops, tablets e smartphones.
+
 Seções Principais:
 Home: Uma introdução pessoal com nome e especialização.
 Sobre Mim: Um resumo sobre quem você é e suas experiências.
