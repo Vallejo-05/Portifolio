@@ -1,5 +1,5 @@
-## 🚀 Personal Portfolio
-Este é um projeto de portfólio pessoal desenvolvido utilizando React com o Vite, estilizado com Tailwind CSS, e totalmente responsivo para dispositivos móveis e desktops. O objetivo deste portfólio é apresentar minhas habilidades, projetos e informações de contato de maneira simples e eficaz.
+## 🚀 Meu portifólio
+Este é um projeto de um portfólio pessoal desenvolvido utilizando React com o Vite, estilizado com Tailwind CSS, e totalmente responsivo para dispositivos móveis e desktops. O objetivo deste portfólio é apresentar minhas habilidades, projetos e informações de contato de maneira simples e eficaz.
 
 ## ✨ Tecnologias Utilizadas
 React: Biblioteca JavaScript para construção de interfaces de usuário.
